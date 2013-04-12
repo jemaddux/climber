@@ -1,5 +1,7 @@
 # climber
 
+A sample game for burtlo's [Metro](https://github.com/burtlo/metro) gem.
+
 ## Details
 
 Additional information or backstory about the game that you
